@@ -423,24 +423,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Matthew David\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\matth\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Renderly\\RenderlyLibrary\\RENDERLYAGAIN\\RenderlyLibrary\\Renderly.csproj",
+      "projectUniqueName": "C:\\Users\\matth\\Downloads\\RENDERLYAGAIN-main\\RENDERLYAGAIN-main\\RenderlyLibrary\\Renderly.csproj",
       "projectName": "Renderly",
-      "projectPath": "C:\\Renderly\\RenderlyLibrary\\RENDERLYAGAIN\\RenderlyLibrary\\Renderly.csproj",
-      "packagesPath": "C:\\Users\\Matthew David\\.nuget\\packages\\",
-      "outputPath": "C:\\Renderly\\RenderlyLibrary\\RENDERLYAGAIN\\RenderlyLibrary\\obj\\",
+      "projectPath": "C:\\Users\\matth\\Downloads\\RENDERLYAGAIN-main\\RENDERLYAGAIN-main\\RenderlyLibrary\\Renderly.csproj",
+      "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\matth\\Downloads\\RENDERLYAGAIN-main\\RENDERLYAGAIN-main\\RenderlyLibrary\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Matthew David\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -448,8 +443,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Users\\Matthew David\\AppData\\Roaming\\Cosmos User Kit\\packages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -1,5 +1,5 @@
 @echo off
-echo Installing OpenTK via NuGet...
+echo Installing via NuGet...
 echo.
 
 REM Check if dotnet CLI is available
@@ -14,5 +14,5 @@ REM Install OpenTK in the current directory/project
 dotnet add package OpenTK --version 4.8.0
 
 echo.
-echo OpenTK installation complete!
+echo Installation complete!
 pause
