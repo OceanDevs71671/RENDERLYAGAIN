@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matth\\Downloads\\RENDERLYAGAIN-main\\RENDERLYAGAIN-main\\RenderlyLibrary\\Renderly.csproj": {}
+    "C:\\Users\\matth\\Downloads\\Renderly\\RenderlyLibrary\\Renderly.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matth\\Downloads\\RENDERLYAGAIN-main\\RENDERLYAGAIN-main\\RenderlyLibrary\\Renderly.csproj": {
+    "C:\\Users\\matth\\Downloads\\Renderly\\RenderlyLibrary\\Renderly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matth\\Downloads\\RENDERLYAGAIN-main\\RENDERLYAGAIN-main\\RenderlyLibrary\\Renderly.csproj",
+        "projectUniqueName": "C:\\Users\\matth\\Downloads\\Renderly\\RenderlyLibrary\\Renderly.csproj",
         "projectName": "Renderly",
-        "projectPath": "C:\\Users\\matth\\Downloads\\RENDERLYAGAIN-main\\RENDERLYAGAIN-main\\RenderlyLibrary\\Renderly.csproj",
+        "projectPath": "C:\\Users\\matth\\Downloads\\Renderly\\RenderlyLibrary\\Renderly.csproj",
         "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matth\\Downloads\\RENDERLYAGAIN-main\\RENDERLYAGAIN-main\\RenderlyLibrary\\obj\\",
+        "outputPath": "C:\\Users\\matth\\Downloads\\Renderly\\RenderlyLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config",

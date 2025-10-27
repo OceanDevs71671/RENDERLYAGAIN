@@ -10,7 +10,6 @@ namespace Renderly.Source.Program
 {
     public class ProgramClass
     {
-
         public string WindowName = "Renderly's Template Window";
         public BasicRenderer Renderer = new BasicRenderer();
         public ConsoleClass consoleClass = new ConsoleClass();
