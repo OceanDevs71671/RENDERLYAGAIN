@@ -13,6 +13,7 @@ Tutorial:
 
 Welcome to the Renderly Tutorial! Today we will learn how to use Renderly, the C# OpenTK Library!
 Note, this will NOT teach you how to install Renderly.
+Renderly requires basic / good C# knowledge!
 
 First, head to the Program.cs inside Source! This is our main script we use to run the code.
 You should see a void called RunRenderly, inside here will showcase all the voids used in Renderly! (or most)
