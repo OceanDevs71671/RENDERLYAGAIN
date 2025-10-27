@@ -4,6 +4,7 @@ Welcome to Renderly, A library in C# that uses OpenTK to render for you in secon
 This is the Run void. You use this void and enter your desired code, and then you can use Renderly!!
 <img width="1480" height="392" alt="image" src="https://github.com/user-attachments/assets/4b49915e-d090-465c-949b-ef9312103d61" />
 
+Window Example
 
 <img width="1115" height="1156" alt="image" src="https://github.com/user-attachments/assets/9aebf3ec-454b-4126-9dca-7fdead211e4f" />
 
