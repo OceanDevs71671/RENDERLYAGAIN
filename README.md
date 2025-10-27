@@ -1,3 +1,5 @@
+https://discord.gg/ps62UfM5cP
+
 Welcome to Renderly, A library in C# that uses OpenTK to render for you in seconds with minimalistic code to help you!!!
 
 
